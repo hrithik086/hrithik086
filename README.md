@@ -21,7 +21,7 @@
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-CSS5-1572B6?style=flat&logo=CSS3&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Angular-61DAFB?style=flat&logo=Angular&logoColor=black" /></a>
